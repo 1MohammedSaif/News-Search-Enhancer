@@ -78,7 +78,3 @@ streamlit run app.py
 - pandas
 - python-dotenv
 - newsapi-python
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
